@@ -1,0 +1,14 @@
+.header {
+	background-color: $blue;
+
+	&__container {
+		background-color: inherit !important;
+	}
+
+	&__logo {
+		height: 32px;
+		padding: 32px 0;
+		margin-bottom: 0;
+	}
+
+}

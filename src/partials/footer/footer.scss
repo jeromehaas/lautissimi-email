@@ -1,0 +1,24 @@
+.footer {
+	background-color: $blue;
+
+	&__container {
+		background-color: inherit !important;
+	}
+
+	&__logo {
+		height: 32px;
+		padding: 32px 0 0 0;
+		margin-bottom: 0;
+	}
+
+	&__address, .address {
+		padding-bottom: 32px;
+
+		&__item {
+			color: $white;
+			line-height: 1.25
+		}
+
+	}
+
+}

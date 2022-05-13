@@ -1,0 +1,17 @@
+.contact-form {
+
+	&__details, .details {
+	
+		&__cell {
+			height: 32px;
+	
+			&:first-child {
+				padding-right: 24px;
+				width: 180px;
+			}
+			
+		}
+
+	}
+
+}

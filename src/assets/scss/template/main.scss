@@ -1,0 +1,22 @@
+html {
+	background-color: $light-gray;
+}
+
+.container {
+	background-color: $light-gray !important;
+}
+
+.columns {
+	padding-top: 0 !important;
+	padding-bottom: 0 !important;
+}
+
+.paragraph {
+	font-family: Helvetica, sans-serif;
+	font-weight: light;
+}
+
+a, p, font, span, b {
+	font-weight: 300 !important;
+	font-size: 18px;
+}
